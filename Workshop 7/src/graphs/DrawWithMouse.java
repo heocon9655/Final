@@ -12,7 +12,7 @@ import javax.swing.ButtonGroup;
 import javax.swing.JColorChooser;
 
 /**
- *
+ * just testing github here
  * @author Hung
  */
 public class DrawWithMouse extends javax.swing.JFrame {
